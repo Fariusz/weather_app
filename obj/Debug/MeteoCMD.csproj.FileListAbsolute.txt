@@ -1,0 +1,26 @@
+C:\Users\Student\Desktop\Zad\MeteoCMD\MeteoCMD\bin\Debug\MeteoCMD.exe.config
+C:\Users\Student\Desktop\Zad\MeteoCMD\MeteoCMD\bin\Debug\MeteoCMD.exe
+C:\Users\Student\Desktop\Zad\MeteoCMD\MeteoCMD\bin\Debug\MeteoCMD.pdb
+C:\Users\Student\Desktop\Zad\MeteoCMD\MeteoCMD\obj\Debug\MeteoCMD.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Zad\MeteoCMD\MeteoCMD\obj\Debug\MeteoCMD.exe
+C:\Users\Student\Desktop\Zad\MeteoCMD\MeteoCMD\obj\Debug\MeteoCMD.pdb
+C:\Users\Student\Desktop\Zad\MeteoCMD\MeteoCMD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Student\Desktop\Zad\MeteoCMD\MeteoCMD\bin\Debug\Newtonsoft.Json.xml
+E:\Moje dokumenty\Dokumenty Politechnika\Jezyki programowania\SEMESTR 5\Aplikacje wielowarstwowe\2018-10-19\MeteoCMD\MeteoCMD\bin\Debug\MeteoCMD.exe.config
+E:\Moje dokumenty\Dokumenty Politechnika\Jezyki programowania\SEMESTR 5\Aplikacje wielowarstwowe\2018-10-19\MeteoCMD\MeteoCMD\bin\Debug\MeteoCMD.exe
+E:\Moje dokumenty\Dokumenty Politechnika\Jezyki programowania\SEMESTR 5\Aplikacje wielowarstwowe\2018-10-19\MeteoCMD\MeteoCMD\bin\Debug\MeteoCMD.pdb
+E:\Moje dokumenty\Dokumenty Politechnika\Jezyki programowania\SEMESTR 5\Aplikacje wielowarstwowe\2018-10-19\MeteoCMD\MeteoCMD\bin\Debug\Newtonsoft.Json.dll
+E:\Moje dokumenty\Dokumenty Politechnika\Jezyki programowania\SEMESTR 5\Aplikacje wielowarstwowe\2018-10-19\MeteoCMD\MeteoCMD\bin\Debug\Newtonsoft.Json.xml
+E:\Moje dokumenty\Dokumenty Politechnika\Jezyki programowania\SEMESTR 5\Aplikacje wielowarstwowe\2018-10-19\MeteoCMD\MeteoCMD\obj\Debug\MeteoCMD.csprojAssemblyReference.cache
+E:\Moje dokumenty\Dokumenty Politechnika\Jezyki programowania\SEMESTR 5\Aplikacje wielowarstwowe\2018-10-19\MeteoCMD\MeteoCMD\obj\Debug\MeteoCMD.csproj.CoreCompileInputs.cache
+E:\Moje dokumenty\Dokumenty Politechnika\Jezyki programowania\SEMESTR 5\Aplikacje wielowarstwowe\2018-10-19\MeteoCMD\MeteoCMD\obj\Debug\MeteoCMD.csproj.CopyComplete
+E:\Moje dokumenty\Dokumenty Politechnika\Jezyki programowania\SEMESTR 5\Aplikacje wielowarstwowe\2018-10-19\MeteoCMD\MeteoCMD\obj\Debug\MeteoCMD.exe
+E:\Moje dokumenty\Dokumenty Politechnika\Jezyki programowania\SEMESTR 5\Aplikacje wielowarstwowe\2018-10-19\MeteoCMD\MeteoCMD\obj\Debug\MeteoCMD.pdb
+C:\Users\Student\Desktop\2018.10.19\MeteoCMD\MeteoCMD\bin\Debug\MeteoCMD.exe.config
+C:\Users\Student\Desktop\2018.10.19\MeteoCMD\MeteoCMD\obj\Debug\MeteoCMD.exe
+C:\Users\Student\Desktop\2018.10.19\MeteoCMD\MeteoCMD\obj\Debug\MeteoCMD.pdb
+C:\Users\Student\Desktop\2018.10.19\MeteoCMD\MeteoCMD\bin\Debug\MeteoCMD.exe
+C:\Users\Student\Desktop\2018.10.19\MeteoCMD\MeteoCMD\bin\Debug\MeteoCMD.pdb
+C:\Users\Student\Desktop\2018.10.19\MeteoCMD\MeteoCMD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Student\Desktop\2018.10.19\MeteoCMD\MeteoCMD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Student\Desktop\2018.10.19\MeteoCMD\MeteoCMD\obj\Debug\MeteoCMD.csprojResolveAssemblyReference.cache
