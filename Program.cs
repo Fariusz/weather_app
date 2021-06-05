@@ -1,12 +1,9 @@
 ﻿using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Text;
-using System.Threading.Tasks;
-using System.Web;
 
 namespace MeteoCMD
 {
@@ -55,6 +52,14 @@ namespace MeteoCMD
     
     class Program
     {
+
+        private static string DecodeString(string text)
+        {
+            Encoding targetEncoding = Encoding.GetEncoding("ISO-8859-1");
+            var unescapeText = System.Text.RegularExpressions.Regex.Unescape(text);
+            return Encoding.UTF8.GetString(targetEncoding.GetBytes(unescapeText));
+        }
+
         static MeteoDBEncy getMeteoDB(String id)
         {
             WebClient client = new WebClient();
@@ -68,7 +73,7 @@ namespace MeteoCMD
         static IList<StationEncy> getStationsList()
         {
             WebClient client = new WebClient();
-            String downloadedString = client.DownloadString("http://infomet.nazwa.pl/data/stations.php");
+            String downloadedString = DecodeString(client.DownloadString("http://infomet.nazwa.pl/data/stations.php"));
 
             IList <StationEncy> stationList = JsonConvert.DeserializeObject<IList<StationEncy>>(downloadedString);
 
@@ -77,6 +82,8 @@ namespace MeteoCMD
 
         static void Main(string[] args)
         {
+            Encoding asciiEncoding = Encoding.ASCII;
+
             Console.WriteLine("Lista dostępnych stacji: ");
             IList<StationEncy> stacje = getStationsList();
             for (int i = 0; i < stacje.Count(); i++)
